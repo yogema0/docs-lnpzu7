@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-y2bhi2.deposit1casino.co.nz/sitemap.xml
